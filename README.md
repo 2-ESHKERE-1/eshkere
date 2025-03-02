@@ -1,4 +1,4 @@
-# thith is my repoditory
+# this is my repoditory
 
 ### MY name is Sasha
 
