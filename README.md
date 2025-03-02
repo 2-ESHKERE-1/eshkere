@@ -6,12 +6,15 @@
 
 **I`m Sigma**
 ```Java Script
-let alive = true
+let alive = true;
+
 do{
-code();
-}
-while(alive)
+   code();
+};
+
+while(alive);
 
 function code(){
 alert("hello world")
-}
+};
+```
