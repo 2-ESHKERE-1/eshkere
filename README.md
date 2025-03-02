@@ -15,6 +15,6 @@ do{
 while(alive);
 
 function code(){
-alert("hello world")
+   alert("hello world")
 };
 ```
